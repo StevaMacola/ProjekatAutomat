@@ -1,2 +1,2 @@
 Otvorite fajlove pomoću visual stuida.
-Izaberite git repositorijum ProjekatAutomat.
+Ispod browse a repository odaberite GitHub, zatim ProjekatAutomat.
